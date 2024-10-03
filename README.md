@@ -5,20 +5,20 @@
 1. Изучить основы HTML
 2. Изучить основы CSS
 3. Изучить основы JavaScript 
-## Основные технологии
+### Основные технологии
 - HTML
 - CSS
 - JavaScript
-## HTML
-HTML *(HyperText Markup Language)* - **это стандартный язык разметки для создания вебстраниц. Он используется для структурирования контента на веб-странице.**
-## CSS
-CSS *(Cascading Style Sheets)* - **это язык стилей, используемый для описания внешнего
+### HTML
+**HTML** *(HyperText Markup Language)* - это стандартный язык разметки для создания вебстраниц. Он используется для структурирования контента на веб-странице.
+### CSS
+**CSS** *(Cascading Style Sheets)* - это язык стилей, используемый для описания внешнего
 вида документа, написанного на HTML. С его помощью можно задавать цвета, шрифты,
-отступы и другие визуальные параметры.**
-## JavaScript
-JavaScript - **это язык программирования, который позволяет реализовывать сложное
+отступы и другие визуальные параметры.
+### JavaScript
+**JavaScript** - это язык программирования, который позволяет реализовывать сложное
 поведение на веб-страницах. Он используется для создания интерактивных элементов,
-таких как кнопки, формы и анимации.**
+таких как кнопки, формы и анимации.
 ## Пример кода
 ### HTML
 ```HTML
@@ -91,8 +91,8 @@ document.addEventListener('DOMContentLoaded', function() {
 - [ ] Создать свой первый веб-сайт  
 ## Ссылки
 
-[JavaScript](https://learn.javascript.ru/?ysclid=m1rzgxjl32521824358)
+[*JavaScript*](https://learn.javascript.ru/?ysclid=m1rzgxjl32521824358)
 
-[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[*CSS*](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[HTML](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
+[*HTML*](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
